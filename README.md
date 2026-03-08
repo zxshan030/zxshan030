@@ -1,4 +1,6 @@
-# Hi 👋 I'm Zishan Khan
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&width=435&lines=Hi+👋+I'm+Zishan+Khan!" alt="Typing SVG" />
+</h1>
 <div align="center">
   <img src="doconghoa.gif" width="250" alt="Wolf"/>
 </div>
