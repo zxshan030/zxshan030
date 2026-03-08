@@ -1,6 +1,6 @@
 # Hi 👋 I'm Zishan Khan
 <div align="center">
-  <img src="wolf-dumb.gif" width="250" alt="Wolf"/>
+  <img src="doconghoa.gif" width="250" alt="Wolf"/>
 </div>
 
 🎓 CSE Aspirant  
