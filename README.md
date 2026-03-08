@@ -1,4 +1,7 @@
 # Hi 👋 I'm Zishan Khan
+<div align="center">
+  <img src="wolf.webp" width="250" alt="Wolf"/>
+</div>
 
 🎓 CSE Aspirant  
 🐍 Learning Python & Machine Learning  
