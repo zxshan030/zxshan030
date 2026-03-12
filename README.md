@@ -19,6 +19,8 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:zishankhan7143@gmail.com)
 
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Zishan_khan_016)
+
 ---
 
 ## 🛠 Tech Stack
