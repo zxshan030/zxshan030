@@ -5,11 +5,20 @@
   <img src="doconghoa.gif" width="250" alt="Wolf"/>
 </div>
 
-🎓 CSE Aspirant  
-🐍 Learning Python & Machine Learning  
-📊 Interested in Data Analysis & Automation  
-🧠 Math + CS + Projects = My Focus  
-🚀 Long-term Goal: AI Engineer  
+🎓 **About Me**
+-  B.Tech CSE Student @ Integral University, Lucknow
+- Aspiring Software Development Engineer (SDE) with AI Knowledge
+- Currently starting my coding journey from scratch!
+
+🎯 **Current Goals (Year 1)**
+- 💻 Learning C++ for Logic Building & DSA
+- 🐍 Exploring Python for Data Analytics
+- 🚀 Building my first few developer projects
+
+⚡ **Fun Fact**
+- I believe in learning by doing, and this profile is where my journey begins.
+
+---
 
 ---
 
@@ -23,29 +32,32 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?logo=visual-studio-code&logoColor=white)
+![C++](https://img.shields.io/badge/C++--00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Data Structures & Algorithms](https://img.shields.io/badge/DSA--black?style=for-the-badge&logo=leetcode&logoColor=yellow)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
+
 ## 📚 Currently Learning
 
-- Python Programming  
-- Problem Solving  
-- Data Analysis  
-- Machine Learning Basics  
+- 💻 C++ Programming & Logic Building
+- 🧠 Data Structures & Algorithms (DSA)
+- 🐍 Python for AI/ML Applications
 
 ---
 
 ## 🚀 Projects
 
-🔹 Python Practice Repository  
-🔹 Beginner Automation Scripts (Coming Soon)  
-🔹 Data Analysis Projects (Coming Soon)
+- 🛠️ **C++ DSA Practice:** A repository tracking my daily problem-solving journey.
+- 🤖 **Python Learning Lab:** Basic scripts and logic building exercises.
+- 📈 *More exciting SDE & AI projects coming soon as college begins!*
 
+---
 ---
 
 ## 📊 GitHub Stats
@@ -58,70 +70,10 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=zxshan030&theme=tokyonight)
 
-<!--
-**zxshan030/zxshan030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on# Hi 👋 I'm Zishan Khan
 
-🎓 CSE Aspirant  
-🐍 Learning Python & Machine Learning  
-📊 Interested in Data Analysis & Automation  
-🧠 Math + CS + Projects = My Focus  
-🚀 Long-term Goal: AI Engineer  
 
----
 
-## 🌐 Connect with Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khan_zishan_03)
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yourusername)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:zishankhan7143@gmail.com)
-
----
-
-## 🛠 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?logo=visual-studio-code&logoColor=white)
-
----
-
-## 📚 Currently Learning
-
-Python Programming
-Problem Solving
-Data Analysis
-Machine Learning Basics
-
----
-
-## 🚀 Projects
-
-🔹 Python Practice Repository  
-🔹 Beginner Automation Scripts (Coming Soon)  
-🔹 Data Analysis Projects (Coming Soon)
-
----
-
-## 📊 GitHub Stats
-
-![Zishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxshan030&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=zxshan030&theme=tokyonight) ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
