@@ -7,7 +7,7 @@
 
 🎓 **About Me**
 -  B.Tech CSE Student @ Integral University, Lucknow
-- Aspiring Software Development Engineer (SDE) with AI Knowledge
+- Aspiring Software Engineer with AI Knowledge
 - Currently starting my coding journey from scratch!
 
 🎯 **Current Goals (Year 1)**
