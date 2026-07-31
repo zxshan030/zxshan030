@@ -16,19 +16,7 @@
 - 🚀 Building my first few developer projects
 
 ⚡ **Fun Fact**
-- I believe in learning by doing, and this profile is where my journey begins.
-
----
-
----
-
-## 🌐 Connect with Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khan_zishan_030)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:zishankhan7143@gmail.com)
-
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Zishan_khan_016)
+- I believe in learning by doing, and this profile is where my journey begins...
 
 ---
 
@@ -76,8 +64,18 @@
 
 [![Zxshan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zxshan030&theme=tokyo-night)](https://github.com/zxshan030)
 
+---
+---
 
+## 🌐 Connect with Me
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khan_zishan_030)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:zishankhan7143@gmail.com)
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Zishan_khan_016)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zishan%20Khan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zxshan030)
 
 
 
