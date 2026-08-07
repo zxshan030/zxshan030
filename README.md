@@ -43,7 +43,7 @@
 
 - 🛠️ **C++ DSA Practice:** A repository tracking my daily problem-solving journey.
 - 🤖 **Python Learning Lab:** Basic scripts and logic building exercises.
-- 📈 *More exciting SDE & AI projects coming soon as college begins!*
+- 📈 *More exciting SDE & AI projects coming soon as college begins!* 
 
 ---
 ---
