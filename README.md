@@ -3,7 +3,7 @@
 </h1>
 <div align="center">
   <img src="doconghoa.gif" width="250" alt="Wolf"/>
-</div>
+</div> 
 
 🎓 **About Me**
 -  B.Tech CSE Student @ Integral University, Lucknow
