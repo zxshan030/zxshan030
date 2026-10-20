@@ -59,13 +59,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=zxshan030&theme=tokyonight)  
 
 ---
-
-
-## 📈 Contribution Graph
-
-[![Zishan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zxshan030&theme=react-dark)](https://github.com/zxshan030)
-
----
 ---
 
 ## 🌐 Connect with Me
