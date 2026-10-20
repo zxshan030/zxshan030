@@ -62,7 +62,7 @@
 
 ## 📈 Contribution Graph
 
-[![Zxshan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zxshan030&theme=tokyo-night)](https://github.com/zxshan030)
+[![Zishan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zxshan030&theme=react-dark)](https://github.com/Zxshan030)
 
 ---
 ---
